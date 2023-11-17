@@ -1,4 +1,4 @@
-# Animated Login Project
+# Animated Login
 
 This project features an animated login interface implemented with HTML, CSS, and JavaScript.
 
