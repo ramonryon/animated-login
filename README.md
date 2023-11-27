@@ -2,6 +2,10 @@
 
 This project features an animated login interface implemented with HTML, CSS, and JavaScript.
 
+## Screenshot
+
+https://github.com/ramonryon/animated-login/blob/4809db1963e36bb6f77cfd43bf3c40f0fd733b93/example.gif
+
 ## Overview
 
 The animated login project provides a visually appealing login experience with dynamic animations using a combination of HTML for structure, CSS for styling, and JavaScript for interactivity.
