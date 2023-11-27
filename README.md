@@ -4,7 +4,7 @@ This project features an animated login interface implemented with HTML, CSS, an
 
 ## Screenshot
 
-https://github.com/ramonryon/animated-login/blob/4809db1963e36bb6f77cfd43bf3c40f0fd733b93/example.gif
+![Screenshot](example.gif);
 
 ## Overview
 
